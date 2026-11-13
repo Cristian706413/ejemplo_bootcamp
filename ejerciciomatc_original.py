@@ -5,6 +5,7 @@ numero2=int(input("Digite un numero  "))
 resultado = False
 match opcion:
     case 1:
+    
         resultado=numero1+numero2
     case 2:
         resultado=numero1-numero2
